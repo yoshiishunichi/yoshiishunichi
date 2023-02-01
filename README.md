@@ -1,3 +1,3 @@
 **Hi, I'm Yoshii.🍻**
 
-![yoshii's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshiishunichi&count_private=true)
+![yoshii's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshiishunichi&count_private=true&show_icons=true&theme=tokyonight)
